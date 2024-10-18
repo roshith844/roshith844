@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm a highly adaptable and self-taught full-stack 
 - 📫 Reach me at: **roshith844@gmail.com** | **+91 9562105300**
 
 ---
+## 🌟 Projects
 
 ## 💼 Experience
 
@@ -43,7 +44,7 @@ _September 2022 – May 2023_
 
 ---
 
-## 🌟 Projects
+
 
 ### E-commerce Website  
 Developed a fully responsive e-commerce platform with integrated payment gateways and third-party services like Shiprocket. Built using **Angular** for the front-end, **NestJS** for the back-end, and **PostgreSQL** for the database.
