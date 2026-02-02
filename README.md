@@ -11,8 +11,10 @@ Welcome to my GitHub profile! I'm a highly adaptable and self-taught full-stack 
 
 ---
 ## Products
-- Snake Game — https://roshith844.github.io/simple-snake-game/
-- Notes App — https://roshith844.github.io/note-app/
+
+- [Snake Game](https://roshith844.github.io/simple-snake-game/)
+- [Notes App](https://roshith844.github.io/note-app/)
+
 
 ## 🌟 Projects
 
