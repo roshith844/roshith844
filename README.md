@@ -10,6 +10,10 @@ Welcome to my GitHub profile! I'm a highly adaptable and self-taught full-stack 
 - 📫 Reach me at: **roshith844@gmail.com** | **+91 9562105300**
 
 ---
+## Products
+- Snake Game — https://roshith844.github.io/simple-snake-game/
+- Notes App — https://roshith844.github.io/note-app/
+
 ## 🌟 Projects
 
 ## 💼 Experience
